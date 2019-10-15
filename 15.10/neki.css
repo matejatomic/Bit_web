@@ -1,0 +1,26 @@
+#telo{
+    
+    /*/background-image: url(/images/cetnik.jpeg);
+    background-repeat: no-repeat;/*/
+    background-color: rgb(0,0,0)
+}
+.paragraf{
+
+color:darkcyan;
+font-size: 50px;}
+#treci {
+    background-color:whitesmoke ;
+    color:gold;
+}
+#prvi {
+    background-color:rgba(255,0,0,0.5);
+    color:rgba(255,215,0,0.8)
+    ;
+}
+#drugi {
+    background-color: blue;
+    color:gold;
+}
+#cetnik{
+    opacity: 0.5;
+}
